@@ -1,0 +1,13 @@
+.container {
+  padding: 20px;
+  display: grid;
+  gap: 10px;
+  width: 400px;
+  border: 2px solid grey;
+  border-radius: 20px;
+}
+
+.mainContainer {
+  display: flex;
+  justify-content: center;
+}
